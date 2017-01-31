@@ -1,0 +1,7 @@
+.git_tmp
+.gen_src
+*.class
+*.jar
+*.war
+*.zip
+target
