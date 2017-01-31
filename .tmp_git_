@@ -19,3 +19,9 @@ git checkout steps
 git add .
 git commit -m "... message"
 git push -u origin [branch] 
+
+!!!!!!! merge ->
+
+git checkout master
+git merge steps
+===================
