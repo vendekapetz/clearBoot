@@ -13,3 +13,12 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+git config user.email "vendekapetz@gmail.com"
+git config user.name "vendekapetz"
+
+git remote add origin http://github.com/vendekapetz/clearBoot.git
+
+git branch steps
+git checkout steps
+
+_
